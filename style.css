@@ -1,0 +1,30 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Hero Section */
+.hero {
+  background: linear-gradient(45deg, #01172a, #00f2fe);
+  color: rgb(253, 253, 253);
+  padding: 80px 0;
+}
+
+/* Section Title */
+.section-title {
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+
+/* Card Image */
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Footer */
+footer {
+  background: #111;
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+}
